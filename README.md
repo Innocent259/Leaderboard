@@ -92,6 +92,13 @@ Run npm dev to view the project on local host(npm run dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo](https://innocent259.github.io/Leaderboard/dist/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
