@@ -95,7 +95,7 @@ Run npm dev to view the project on local host(npm run dev)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://innocent259.github.io/Leaderboard/dist/)
+[Demo](https://innocent259.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
